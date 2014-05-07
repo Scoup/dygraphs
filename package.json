@@ -1,0 +1,22 @@
+{
+  "name": "dygraphs",
+  "version": "1.0.1",
+  "description": "dygraphs JavaScript charting library",
+  "main": "dygraph.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danvk/dygraphs"
+  },
+  "author": "Léo Haddad M. C. Carneiro <scoup001@gmail.com> (http://github.com/Scoup)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danvk/dygraphs/issues"
+  }
+}
